@@ -1,7 +1,7 @@
 
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://www.visual-layer.com">
- <img src="https://github.com/adiwishnitzer1/fastdup/blob/c032fce86135a20e2b44f7f323156b036ee8bb71/gallery/new%20logo%20fsatdup%20with%20backgorung%20color%20white.png" width="400"> 
+ <img src="https://github.com/adiwishnitzer1/fastdup/blob/7a6080354b8716b0606d15f951420517726f0889/gallery/new%20logo%20fsatdup%20big%20with%20backgorung%20color%20white2.png" width="400"> 
   </a>
 <br>
 </div>
